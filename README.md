@@ -1,6 +1,13 @@
 # Welcome to CTF
 
-## What is CTF?
+# Table of Contents
+1. [What is CTF?](#what-is)
+2. [CTF Challenge Types](#challenges)
+3. [How To Get Into CTF](#how-to-get-into)
+4. [Learning Resources](#learning-resources)
+5. [Practice](#practice)
+
+## What is CTF?<a name="what-is" />
 
 Capture the Flag (CTF) competitions are online information security competitions. CTF events are made up of challenges, usually in multiple disciplines. These challenges are each worth points, and the team that finishes the CTF with the most points wins! Players can play alone, or they can play in teams (much more fun). You can play to learn (recommended) or you can play to win (not for the faint of heart). All CTFs are learning experiences though, often introducing novel vulnerabilities or exploitation techniques across security disciplines. Most players are friendly and excited to share their solves after the competition ends, so community is an important aspect of CTF playing. Generally, CTF competitions are organized through [CTFTime](https://ctftime.org), an unofficial calendar and ranking hub that lets top teams show off their hard-earned rating points. CTFtime has their own [WTF is CTF](https://ctftime.org/ctf-wtf/) for the curious.
 
@@ -16,7 +23,7 @@ These CTFs are the most common, and there are usually one or more events every s
 
 These CTFs are generally shorter than Jeopardy style CTFs, generally taking place in one day. These CTFs are faster paced! Each team runs a server that has several services running on it (these services are the "challenges" in A-D). Teams reverse engineer the services to find bugs and vulnerabilities, then gain points by exploiting opponents' services. Teams also gain points by patching their own services to remove vulnerabilities and protect their own flags. Examples of popular A-D CTFs are [iCTF](https://shellphish.net/ictf/) and [Faust](https://2020.faustctf.net/).
 
-## What are the challenges?
+## What are the challenges? <a name="challenges" />
 
 Challenges come in all varieties, but the following categories are the main staples:
 
@@ -45,13 +52,13 @@ The misc category can be literally anything. From building a neural network solv
 
 Other categories appear or don't depending on the CTF. A DFIR-oriented CTF will probably have forensics and redteam challenges, but these challenges do not always show up in every CTF.
 
-## How to get into CTF?
+## How to get into CTF?<a name="how-to-get-into" />
 
 1. Play! Play a lot. The easiest way to get good at CTF is to play as much as possible. The more challenges you see, the more challenges you will have an idea of how to solve in the future.
 2. Find a team that you enjoy playing with. CTF is fun alone, it is a stimulating mental exercise, but it is infinitely more fun when played with friends (either online or in person). Playing with a team allows you to share knowledge and begin to specialize as well, and having more eyes on the problem increases your chances of getting flags, ranking higher, and increasing your motivation even more.
 3. Learn when not playing! There are many learning resources below, but in general: play always-on, solve challenges, and keep track of your solutions and techniques!
 
-## Learning resources
+## Learning resources<a name="learning-resources" />
 
 ### Informational Resources:
 
@@ -149,7 +156,9 @@ Web exploitation is quite varied and constantly evolving, some classics remain t
 - [Attacking Network Protocols](https://nostarch.com/networkprotocols)
 - [Real-World Bug Hunting](https://nostarch.com/bughunting)
 
-### Always-On CTFs:
+### Always-On CTFs:<a name="practice" />
+
+Thanks to [zardus](https://github.com/zardus/wargame-nexus) for many of these!
 
 #### pwn
 - [Over The Wire Bandit](http://overthewire.org/wargames/bandit/)
