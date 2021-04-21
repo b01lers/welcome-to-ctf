@@ -1,4 +1,4 @@
-# Circle City Con 2021
+# Welcome to CTF
 
 ## What is CTF?
 
