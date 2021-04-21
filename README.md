@@ -57,6 +57,7 @@ Other categories appear or don't depending on the CTF. A DFIR-oriented CTF will 
 1. Play! Play a lot. The easiest way to get good at CTF is to play as much as possible. The more challenges you see, the more challenges you will have an idea of how to solve in the future.
 2. Find a team that you enjoy playing with. CTF is fun alone, it is a stimulating mental exercise, but it is infinitely more fun when played with friends (either online or in person). Playing with a team allows you to share knowledge and begin to specialize as well, and having more eyes on the problem increases your chances of getting flags, ranking higher, and increasing your motivation even more.
 3. Learn when not playing! There are many learning resources below, but in general: play always-on, solve challenges, and keep track of your solutions and techniques!
+4. Figure out what you like to do. Most players are not pros at all categories except ~~perfect blue~~, so don't expect to be a master of all 4 elements. Pick what you like to learn about and enjoy, and focus on that!
 
 ## Learning resources<a name="learning-resources" />
 
